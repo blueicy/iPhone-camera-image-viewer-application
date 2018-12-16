@@ -4,3 +4,5 @@ This app has a camera interface and you can extract real-time imageset in sequen
 Feature Description
 
 Sample Image
+
+Buttons
