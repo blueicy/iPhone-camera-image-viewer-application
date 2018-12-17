@@ -6,3 +6,5 @@ Feature Description
 Sample Image
 
 Buttons
+
+Status window
