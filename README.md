@@ -8,3 +8,7 @@ Sample Image
 Buttons
 
 Status window
+
+Image feed
+
+ROI draw
